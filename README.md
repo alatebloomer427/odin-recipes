@@ -1,0 +1,1 @@
+This is my first website, which contains three recipes. Using basic HTML elements, I presented texts, images, and links on the pages. This site will be upgraded with more visual details accomplished through CSS, which is the goal of my next project.
